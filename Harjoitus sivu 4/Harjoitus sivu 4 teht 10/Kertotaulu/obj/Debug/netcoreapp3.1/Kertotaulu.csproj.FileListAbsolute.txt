@@ -1,0 +1,13 @@
+C:\Users\sulo.forsgren\source\ohjelmointi\Ohjelmistokehittajana-toimiminen\Kertotaulu\Kertotaulu\bin\Debug\netcoreapp3.1\Kertotaulu.exe
+C:\Users\sulo.forsgren\source\ohjelmointi\Ohjelmistokehittajana-toimiminen\Kertotaulu\Kertotaulu\bin\Debug\netcoreapp3.1\Kertotaulu.deps.json
+C:\Users\sulo.forsgren\source\ohjelmointi\Ohjelmistokehittajana-toimiminen\Kertotaulu\Kertotaulu\bin\Debug\netcoreapp3.1\Kertotaulu.runtimeconfig.json
+C:\Users\sulo.forsgren\source\ohjelmointi\Ohjelmistokehittajana-toimiminen\Kertotaulu\Kertotaulu\bin\Debug\netcoreapp3.1\Kertotaulu.runtimeconfig.dev.json
+C:\Users\sulo.forsgren\source\ohjelmointi\Ohjelmistokehittajana-toimiminen\Kertotaulu\Kertotaulu\bin\Debug\netcoreapp3.1\Kertotaulu.dll
+C:\Users\sulo.forsgren\source\ohjelmointi\Ohjelmistokehittajana-toimiminen\Kertotaulu\Kertotaulu\bin\Debug\netcoreapp3.1\Kertotaulu.pdb
+C:\Users\sulo.forsgren\source\ohjelmointi\Ohjelmistokehittajana-toimiminen\Kertotaulu\Kertotaulu\obj\Debug\netcoreapp3.1\Kertotaulu.csprojAssemblyReference.cache
+C:\Users\sulo.forsgren\source\ohjelmointi\Ohjelmistokehittajana-toimiminen\Kertotaulu\Kertotaulu\obj\Debug\netcoreapp3.1\Kertotaulu.csproj.CoreCompileInputs.cache
+C:\Users\sulo.forsgren\source\ohjelmointi\Ohjelmistokehittajana-toimiminen\Kertotaulu\Kertotaulu\obj\Debug\netcoreapp3.1\Kertotaulu.AssemblyInfoInputs.cache
+C:\Users\sulo.forsgren\source\ohjelmointi\Ohjelmistokehittajana-toimiminen\Kertotaulu\Kertotaulu\obj\Debug\netcoreapp3.1\Kertotaulu.AssemblyInfo.cs
+C:\Users\sulo.forsgren\source\ohjelmointi\Ohjelmistokehittajana-toimiminen\Kertotaulu\Kertotaulu\obj\Debug\netcoreapp3.1\Kertotaulu.dll
+C:\Users\sulo.forsgren\source\ohjelmointi\Ohjelmistokehittajana-toimiminen\Kertotaulu\Kertotaulu\obj\Debug\netcoreapp3.1\Kertotaulu.pdb
+C:\Users\sulo.forsgren\source\ohjelmointi\Ohjelmistokehittajana-toimiminen\Kertotaulu\Kertotaulu\obj\Debug\netcoreapp3.1\Kertotaulu.genruntimeconfig.cache

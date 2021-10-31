@@ -1,0 +1,13 @@
+C:\Users\sulo.forsgren\source\repos\Laskutoimitukset\Laskutoimitukset\bin\Debug\netcoreapp3.1\Laskutoimitukset.exe
+C:\Users\sulo.forsgren\source\repos\Laskutoimitukset\Laskutoimitukset\bin\Debug\netcoreapp3.1\Laskutoimitukset.deps.json
+C:\Users\sulo.forsgren\source\repos\Laskutoimitukset\Laskutoimitukset\bin\Debug\netcoreapp3.1\Laskutoimitukset.runtimeconfig.json
+C:\Users\sulo.forsgren\source\repos\Laskutoimitukset\Laskutoimitukset\bin\Debug\netcoreapp3.1\Laskutoimitukset.runtimeconfig.dev.json
+C:\Users\sulo.forsgren\source\repos\Laskutoimitukset\Laskutoimitukset\bin\Debug\netcoreapp3.1\Laskutoimitukset.dll
+C:\Users\sulo.forsgren\source\repos\Laskutoimitukset\Laskutoimitukset\bin\Debug\netcoreapp3.1\Laskutoimitukset.pdb
+C:\Users\sulo.forsgren\source\repos\Laskutoimitukset\Laskutoimitukset\obj\Debug\netcoreapp3.1\Laskutoimitukset.csprojAssemblyReference.cache
+C:\Users\sulo.forsgren\source\repos\Laskutoimitukset\Laskutoimitukset\obj\Debug\netcoreapp3.1\Laskutoimitukset.csproj.CoreCompileInputs.cache
+C:\Users\sulo.forsgren\source\repos\Laskutoimitukset\Laskutoimitukset\obj\Debug\netcoreapp3.1\Laskutoimitukset.AssemblyInfoInputs.cache
+C:\Users\sulo.forsgren\source\repos\Laskutoimitukset\Laskutoimitukset\obj\Debug\netcoreapp3.1\Laskutoimitukset.AssemblyInfo.cs
+C:\Users\sulo.forsgren\source\repos\Laskutoimitukset\Laskutoimitukset\obj\Debug\netcoreapp3.1\Laskutoimitukset.dll
+C:\Users\sulo.forsgren\source\repos\Laskutoimitukset\Laskutoimitukset\obj\Debug\netcoreapp3.1\Laskutoimitukset.pdb
+C:\Users\sulo.forsgren\source\repos\Laskutoimitukset\Laskutoimitukset\obj\Debug\netcoreapp3.1\Laskutoimitukset.genruntimeconfig.cache
