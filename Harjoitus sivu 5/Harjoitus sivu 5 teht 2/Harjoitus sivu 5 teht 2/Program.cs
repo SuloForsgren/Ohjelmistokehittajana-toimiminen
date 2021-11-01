@@ -6,19 +6,19 @@ namespace Harjoitus_sivu_5_teht_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter what you want to print!");
-            string userPrint = Console.ReadLine();
+            Console.WriteLine("Anna suurempi numero kuin 10: ");
+            int luku = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter the number of times you want to print: ");
-            int number = int.Parse(Console.ReadLine());
-
-            while (number > 0)
+            for (int y = 0; y < luku; y++)
             {
-                Console.WriteLine(userPrint);
-                number--;
+                Console.Write(luku + " ");
             }
-
-            Console.ReadLine();
+            Console.WriteLine();
+            for (int y = 0; y < luku; y++)
+            {
+                Console.Write(luku);
+            }
+            Console.WriteLine();
         }
     }
 }
