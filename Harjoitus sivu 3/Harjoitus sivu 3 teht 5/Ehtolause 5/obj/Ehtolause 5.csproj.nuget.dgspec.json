@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sulo.forsgren\\source\\Tehtävät\\Ehtolause 5\\Ehtolause 5\\Ehtolause 5.csproj": {}
+    "C:\\Users\\sulo.forsgren\\source\\ohjelmointi\\Ohjelmistokehittajana-toimiminen\\Harjoitus sivu 3\\Harjoitus sivu 3 teht 5\\Ehtolause 5\\Ehtolause 5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sulo.forsgren\\source\\Tehtävät\\Ehtolause 5\\Ehtolause 5\\Ehtolause 5.csproj": {
+    "C:\\Users\\sulo.forsgren\\source\\ohjelmointi\\Ohjelmistokehittajana-toimiminen\\Harjoitus sivu 3\\Harjoitus sivu 3 teht 5\\Ehtolause 5\\Ehtolause 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sulo.forsgren\\source\\Tehtävät\\Ehtolause 5\\Ehtolause 5\\Ehtolause 5.csproj",
+        "projectUniqueName": "C:\\Users\\sulo.forsgren\\source\\ohjelmointi\\Ohjelmistokehittajana-toimiminen\\Harjoitus sivu 3\\Harjoitus sivu 3 teht 5\\Ehtolause 5\\Ehtolause 5.csproj",
         "projectName": "Ehtolause 5",
-        "projectPath": "C:\\Users\\sulo.forsgren\\source\\Tehtävät\\Ehtolause 5\\Ehtolause 5\\Ehtolause 5.csproj",
+        "projectPath": "C:\\Users\\sulo.forsgren\\source\\ohjelmointi\\Ohjelmistokehittajana-toimiminen\\Harjoitus sivu 3\\Harjoitus sivu 3 teht 5\\Ehtolause 5\\Ehtolause 5.csproj",
         "packagesPath": "C:\\Users\\sulo.forsgren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sulo.forsgren\\source\\Tehtävät\\Ehtolause 5\\Ehtolause 5\\obj\\",
+        "outputPath": "C:\\Users\\sulo.forsgren\\source\\ohjelmointi\\Ohjelmistokehittajana-toimiminen\\Harjoitus sivu 3\\Harjoitus sivu 3 teht 5\\Ehtolause 5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\sulo.forsgren\\AppData\\Roaming\\NuGet\\NuGet.Config",
