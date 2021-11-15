@@ -1,0 +1,10 @@
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\ikaTehtava\ikaTehtava\bin\Debug\ikaTehtava.exe.config
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\ikaTehtava\ikaTehtava\bin\Debug\ikaTehtava.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\ikaTehtava\ikaTehtava\bin\Debug\ikaTehtava.pdb
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\ikaTehtava\ikaTehtava\obj\Debug\ikaTehtava.csproj.AssemblyReference.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\ikaTehtava\ikaTehtava\obj\Debug\ikaTehtava.Form1.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\ikaTehtava\ikaTehtava\obj\Debug\ikaTehtava.Properties.Resources.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\ikaTehtava\ikaTehtava\obj\Debug\ikaTehtava.csproj.GenerateResource.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\ikaTehtava\ikaTehtava\obj\Debug\ikaTehtava.csproj.CoreCompileInputs.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\ikaTehtava\ikaTehtava\obj\Debug\ikaTehtava.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\ikaTehtava\ikaTehtava\obj\Debug\ikaTehtava.pdb

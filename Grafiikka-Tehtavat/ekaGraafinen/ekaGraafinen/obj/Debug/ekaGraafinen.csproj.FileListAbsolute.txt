@@ -1,0 +1,10 @@
+C:\Users\sulo.forsgren\source\repos\ekaGraafinen\ekaGraafinen\bin\Debug\ekaGraafinen.exe.config
+C:\Users\sulo.forsgren\source\repos\ekaGraafinen\ekaGraafinen\bin\Debug\ekaGraafinen.exe
+C:\Users\sulo.forsgren\source\repos\ekaGraafinen\ekaGraafinen\bin\Debug\ekaGraafinen.pdb
+C:\Users\sulo.forsgren\source\repos\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.csprojAssemblyReference.cache
+C:\Users\sulo.forsgren\source\repos\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.LomakeFM.resources
+C:\Users\sulo.forsgren\source\repos\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.Properties.Resources.resources
+C:\Users\sulo.forsgren\source\repos\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.csproj.GenerateResource.cache
+C:\Users\sulo.forsgren\source\repos\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.csproj.CoreCompileInputs.cache
+C:\Users\sulo.forsgren\source\repos\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.exe
+C:\Users\sulo.forsgren\source\repos\ekaGraafinen\ekaGraafinen\obj\Debug\ekaGraafinen.pdb

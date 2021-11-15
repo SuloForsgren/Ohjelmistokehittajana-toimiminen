@@ -1,0 +1,10 @@
+C:\Users\sulo.forsgren\source\repos\tokaGraafinen\tokaGraafinen\bin\Debug\tokaGraafinen.exe.config
+C:\Users\sulo.forsgren\source\repos\tokaGraafinen\tokaGraafinen\bin\Debug\tokaGraafinen.exe
+C:\Users\sulo.forsgren\source\repos\tokaGraafinen\tokaGraafinen\bin\Debug\tokaGraafinen.pdb
+C:\Users\sulo.forsgren\source\repos\tokaGraafinen\tokaGraafinen\obj\Debug\tokaGraafinen.csprojAssemblyReference.cache
+C:\Users\sulo.forsgren\source\repos\tokaGraafinen\tokaGraafinen\obj\Debug\tokaGraafinen.Form1.resources
+C:\Users\sulo.forsgren\source\repos\tokaGraafinen\tokaGraafinen\obj\Debug\tokaGraafinen.Properties.Resources.resources
+C:\Users\sulo.forsgren\source\repos\tokaGraafinen\tokaGraafinen\obj\Debug\tokaGraafinen.csproj.GenerateResource.cache
+C:\Users\sulo.forsgren\source\repos\tokaGraafinen\tokaGraafinen\obj\Debug\tokaGraafinen.csproj.CoreCompileInputs.cache
+C:\Users\sulo.forsgren\source\repos\tokaGraafinen\tokaGraafinen\obj\Debug\tokaGraafinen.exe
+C:\Users\sulo.forsgren\source\repos\tokaGraafinen\tokaGraafinen\obj\Debug\tokaGraafinen.pdb
