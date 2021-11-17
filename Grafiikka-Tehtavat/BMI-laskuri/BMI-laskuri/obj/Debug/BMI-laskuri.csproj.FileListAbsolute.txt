@@ -1,0 +1,10 @@
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\BMI-laskuri\BMI-laskuri\bin\Debug\BMI-laskuri.exe.config
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\BMI-laskuri\BMI-laskuri\bin\Debug\BMI-laskuri.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\BMI-laskuri\BMI-laskuri\bin\Debug\BMI-laskuri.pdb
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\BMI-laskuri\BMI-laskuri\obj\Debug\BMI-laskuri.csproj.AssemblyReference.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\BMI-laskuri\BMI-laskuri\obj\Debug\BMI_laskuri.Form1.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\BMI-laskuri\BMI-laskuri\obj\Debug\BMI_laskuri.Properties.Resources.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\BMI-laskuri\BMI-laskuri\obj\Debug\BMI-laskuri.csproj.GenerateResource.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\BMI-laskuri\BMI-laskuri\obj\Debug\BMI-laskuri.csproj.CoreCompileInputs.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\BMI-laskuri\BMI-laskuri\obj\Debug\BMI-laskuri.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\BMI-laskuri\BMI-laskuri\obj\Debug\BMI-laskuri.pdb

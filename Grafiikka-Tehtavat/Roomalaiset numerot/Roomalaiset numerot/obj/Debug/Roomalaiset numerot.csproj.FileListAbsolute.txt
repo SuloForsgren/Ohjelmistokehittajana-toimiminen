@@ -1,0 +1,10 @@
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Roomalaiset numerot\Roomalaiset numerot\bin\Debug\Roomalaiset numerot.exe.config
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Roomalaiset numerot\Roomalaiset numerot\bin\Debug\Roomalaiset numerot.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Roomalaiset numerot\Roomalaiset numerot\bin\Debug\Roomalaiset numerot.pdb
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.csproj.AssemblyReference.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset_numerot.RoomalaisetForm.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset_numerot.Properties.Resources.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.csproj.GenerateResource.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.csproj.CoreCompileInputs.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.pdb

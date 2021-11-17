@@ -104,16 +104,6 @@ namespace CrudProject
             }
             TietolaatikkoDG.DataSource = opiskelija.haeOpiskelijat();
         }
-        /*private void TietolaatikkoDG_CellCLick(object sender, DataGridViewCellEventArgs e)
-        {
-            IdTB.Text = TietolaatikkoDG.CurrentRow.Cells[0].Value.ToString();
-            EtunimiTB.Text = TietolaatikkoDG.CurrentRow.Cells[1].Value.ToString();
-            SukunimiTB.Text = TietolaatikkoDG.CurrentRow.Cells[2].Value.ToString();
-            PuhelinTB.Text = TietolaatikkoDG.CurrentRow.Cells[3].Value.ToString();
-            SpostiTB.Text = TietolaatikkoDG.CurrentRow.Cells[4].Value.ToString();
-            OpiskelijanroTB.Text = TietolaatikkoDG.CurrentRow.Cells[5].Value.ToString();
-        }*/
-        //private void PoistoBT_Click(object sender, DataGridViewCellEventArgs e)
           private void PoistoBT_Click(object sender, EventArgs e)
         {
             String ktunnus = IdTB.Text;

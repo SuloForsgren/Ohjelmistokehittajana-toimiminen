@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using System.Data;
 
-//SSL Mode = None
+//SSL Mode = None --> use if needed
 
 namespace CrudProject
 {

@@ -1,0 +1,10 @@
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Lukujenjärjestys\Lukujenjärjestys\bin\Debug\Lukujenjärjestys.exe.config
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Lukujenjärjestys\Lukujenjärjestys\bin\Debug\Lukujenjärjestys.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Lukujenjärjestys\Lukujenjärjestys\bin\Debug\Lukujenjärjestys.pdb
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Lukujenjärjestys\Lukujenjärjestys\obj\Debug\Lukujenjärjestys.csproj.AssemblyReference.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Lukujenjärjestys\Lukujenjärjestys\obj\Debug\Lukujenjärjestys.Lukujenjarjestys.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Lukujenjärjestys\Lukujenjärjestys\obj\Debug\Lukujenjärjestys.Properties.Resources.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Lukujenjärjestys\Lukujenjärjestys\obj\Debug\Lukujenjärjestys.csproj.GenerateResource.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Lukujenjärjestys\Lukujenjärjestys\obj\Debug\Lukujenjärjestys.csproj.CoreCompileInputs.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Lukujenjärjestys\Lukujenjärjestys\obj\Debug\Lukujenjärjestys.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Lukujenjärjestys\Lukujenjärjestys\obj\Debug\Lukujenjärjestys.pdb
