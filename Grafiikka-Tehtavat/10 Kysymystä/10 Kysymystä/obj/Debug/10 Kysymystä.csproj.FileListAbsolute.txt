@@ -1,0 +1,10 @@
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\10 Kysymystä\10 Kysymystä\bin\Debug\10 Kysymystä.exe.config
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\10 Kysymystä\10 Kysymystä\bin\Debug\10 Kysymystä.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\10 Kysymystä\10 Kysymystä\bin\Debug\10 Kysymystä.pdb
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\10 Kysymystä\10 Kysymystä\obj\Debug\10 Kysymystä.csproj.AssemblyReference.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\10 Kysymystä\10 Kysymystä\obj\Debug\_10_Kysymystä.Form1.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\10 Kysymystä\10 Kysymystä\obj\Debug\_10_Kysymystä.Properties.Resources.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\10 Kysymystä\10 Kysymystä\obj\Debug\10 Kysymystä.csproj.GenerateResource.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\10 Kysymystä\10 Kysymystä\obj\Debug\10 Kysymystä.csproj.CoreCompileInputs.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\10 Kysymystä\10 Kysymystä\obj\Debug\10 Kysymystä.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\10 Kysymystä\10 Kysymystä\obj\Debug\10 Kysymystä.pdb
