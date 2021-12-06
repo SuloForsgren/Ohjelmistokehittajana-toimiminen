@@ -1,0 +1,10 @@
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Pojat ja tytöt\Pojat ja tytöt\bin\Debug\Pojat ja tytöt.exe.config
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Pojat ja tytöt\Pojat ja tytöt\bin\Debug\Pojat ja tytöt.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Pojat ja tytöt\Pojat ja tytöt\bin\Debug\Pojat ja tytöt.pdb
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Pojat ja tytöt\Pojat ja tytöt\obj\Debug\Pojat ja tytöt.csproj.AssemblyReference.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Pojat ja tytöt\Pojat ja tytöt\obj\Debug\Pojat_ja_tytöt.NimiFORM.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Pojat ja tytöt\Pojat ja tytöt\obj\Debug\Pojat_ja_tytöt.Properties.Resources.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Pojat ja tytöt\Pojat ja tytöt\obj\Debug\Pojat ja tytöt.csproj.GenerateResource.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Pojat ja tytöt\Pojat ja tytöt\obj\Debug\Pojat ja tytöt.csproj.CoreCompileInputs.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Pojat ja tytöt\Pojat ja tytöt\obj\Debug\Pojat ja tytöt.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Pojat ja tytöt\Pojat ja tytöt\obj\Debug\Pojat ja tytöt.pdb
