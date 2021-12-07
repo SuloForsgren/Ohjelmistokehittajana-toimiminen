@@ -1,0 +1,41 @@
+C:\Users\sulo.forsgren\source\repos\Yhteenlasku\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.exe
+C:\Users\sulo.forsgren\source\repos\Yhteenlasku\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.deps.json
+C:\Users\sulo.forsgren\source\repos\Yhteenlasku\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.runtimeconfig.json
+C:\Users\sulo.forsgren\source\repos\Yhteenlasku\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.runtimeconfig.dev.json
+C:\Users\sulo.forsgren\source\repos\Yhteenlasku\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.dll
+C:\Users\sulo.forsgren\source\repos\Yhteenlasku\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.pdb
+C:\Users\sulo.forsgren\source\repos\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.csprojAssemblyReference.cache
+C:\Users\sulo.forsgren\source\repos\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.csproj.CoreCompileInputs.cache
+C:\Users\sulo.forsgren\source\repos\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.AssemblyInfoInputs.cache
+C:\Users\sulo.forsgren\source\repos\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.AssemblyInfo.cs
+C:\Users\sulo.forsgren\source\repos\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.dll
+C:\Users\sulo.forsgren\source\repos\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.pdb
+C:\Users\sulo.forsgren\source\repos\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.genruntimeconfig.cache
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.exe
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.deps.json
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.runtimeconfig.json
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.runtimeconfig.dev.json
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.dll
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.pdb
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.csproj.AssemblyReference.cache
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.AssemblyInfoInputs.cache
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.AssemblyInfo.cs
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.csproj.CoreCompileInputs.cache
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.dll
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.pdb
+G:\C# ohjelmointi harjoitukset\Yhteenlasku\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.genruntimeconfig.cache
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.exe
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.deps.json
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.runtimeconfig.json
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.runtimeconfig.dev.json
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.dll
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\bin\Debug\netcoreapp3.1\Yhteenlasku.pdb
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.csproj.AssemblyReference.cache
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.AssemblyInfoInputs.cache
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.AssemblyInfo.cs
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.csproj.CoreCompileInputs.cache
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.dll
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.pdb
+G:\C# ohjelmointi harjoitukset\Valmiit\Harjoitus sivu 4\Harjoitus sivu 4 teht 1\Yhteenlasku\obj\Debug\netcoreapp3.1\Yhteenlasku.genruntimeconfig.cache

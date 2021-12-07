@@ -1,0 +1,14 @@
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\bin\Debug\netcoreapp3.1\Yhteenlasku2.exe
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\bin\Debug\netcoreapp3.1\Yhteenlasku2.deps.json
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\bin\Debug\netcoreapp3.1\Yhteenlasku2.runtimeconfig.json
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\bin\Debug\netcoreapp3.1\Yhteenlasku2.runtimeconfig.dev.json
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\bin\Debug\netcoreapp3.1\Yhteenlasku2.dll
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\bin\Debug\netcoreapp3.1\Yhteenlasku2.pdb
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\obj\Debug\netcoreapp3.1\Yhteenlasku2.csproj.AssemblyReference.cache
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\obj\Debug\netcoreapp3.1\Yhteenlasku2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\obj\Debug\netcoreapp3.1\Yhteenlasku2.AssemblyInfoInputs.cache
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\obj\Debug\netcoreapp3.1\Yhteenlasku2.AssemblyInfo.cs
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\obj\Debug\netcoreapp3.1\Yhteenlasku2.csproj.CoreCompileInputs.cache
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\obj\Debug\netcoreapp3.1\Yhteenlasku2.dll
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\obj\Debug\netcoreapp3.1\Yhteenlasku2.pdb
+C:\Users\sulof\source\repos\Yhteenlasku2\Yhteenlasku2\obj\Debug\netcoreapp3.1\Yhteenlasku2.genruntimeconfig.cache

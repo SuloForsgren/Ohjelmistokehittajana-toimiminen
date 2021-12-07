@@ -1,0 +1,17 @@
+System.console class
+
+Represents the standard input, output, and error streams for console applications. 
+This class cannot be inherited.
+
+System.DateTime class
+
+Voit työskennellä päivämäärän ja kellonajan kanssa jos käytät datetime luokkaa.
+Voit tällä tehdä esimerkiksi kalenterin kaltaisen sovelluksen 
+taikka sovelluksen johon merkkaat muistoja tai muuta
+
+System.math class
+
+The following example uses several mathematical and trigonometric functions 
+from the Math class to calculate the inner angles of a trapezoid.
+
+Tällä voit esimerkiksi tehdä ohjelman joka laskee kulmia taikka laskimen
