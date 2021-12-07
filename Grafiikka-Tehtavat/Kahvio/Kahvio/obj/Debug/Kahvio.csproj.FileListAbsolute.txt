@@ -1,0 +1,10 @@
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Kahvio\Kahvio\bin\Debug\Kahvio.exe.config
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Kahvio\Kahvio\bin\Debug\Kahvio.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Kahvio\Kahvio\bin\Debug\Kahvio.pdb
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Kahvio\Kahvio\obj\Debug\Kahvio.csproj.AssemblyReference.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Kahvio\Kahvio\obj\Debug\Kahvio.RuokalistaForm.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Kahvio\Kahvio\obj\Debug\Kahvio.Properties.Resources.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Kahvio\Kahvio\obj\Debug\Kahvio.csproj.GenerateResource.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Kahvio\Kahvio\obj\Debug\Kahvio.csproj.CoreCompileInputs.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Kahvio\Kahvio\obj\Debug\Kahvio.exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Grafiikka-Tehtavat\Kahvio\Kahvio\obj\Debug\Kahvio.pdb
